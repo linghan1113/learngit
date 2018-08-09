@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 add merge.
 
 tatsgdh tushdj stash
+di yi ci xiu gai zan cun stash
+di er ci xiu gai jiu wan cheng 
